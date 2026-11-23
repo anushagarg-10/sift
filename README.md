@@ -69,7 +69,7 @@ npm run dev
 
 ```bash
 cd backend
-pytest                 # 27 tests: ingestion, validation and retry logic, API, eval metrics
+pytest                 # 35 tests: ingestion, validation and retry logic, Claude provider (offline), API, eval metrics
 python -m app.evals --min-category 0.8 --min-sentiment 0.65
 ```
 

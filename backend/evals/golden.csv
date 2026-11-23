@@ -1,0 +1,25 @@
+id,text,sentiment,category,urgency
+g01,"I was charged twice for my subscription this month. Please refund the extra payment immediately!",negative,billing,5
+g02,"Can I get an invoice with our company VAT number on it for last quarter?",neutral,billing,2
+g03,"The pricing page says $12 but I was billed $15. Can someone explain the difference?",negative,billing,3
+g04,"The app crashes every time I try to export a report to PDF. Frustrating.",negative,bug,4
+g05,"Getting a 500 error on the dashboard since this morning, all users on our team are affected.",negative,bug,5
+g06,"Small thing: the date picker shows the wrong month after you press back. Not blocking anything.",neutral,bug,2
+g07,"Would love a dark mode option for late night work sessions.",positive,feature_request,1
+g08,"Please add a Slack integration so we can get alerts in our channel.",neutral,feature_request,2
+g09,"It would be great if exports could include custom fields. Our analysts keep asking.",neutral,feature_request,2
+g10,"I'm locked out of my account after enabling 2FA and the recovery code doesn't work.",negative,account,4
+g11,"How do I change the email address on my account?",neutral,account,2
+g12,"Password reset email never arrives. Tried three times today.",negative,account,4
+g13,"My package was marked delivered but it never arrived. Tracking number is attached.",negative,shipping,4
+g14,"Delivery was two days early and the parcel was well packed. Thanks!",positive,shipping,1
+g15,"The courier left my package in the rain and the box was soaked. Contents seem fine.",negative,shipping,3
+g16,"Thank you for the quick support last week, the team was fantastic.",positive,other,1
+g17,"Just wanted to say the new onboarding flow is really smooth. Great work.",positive,other,1
+g18,"Do you have an office in Melbourne? We might want to meet in person.",neutral,other,1
+g19,"This is unacceptable. Your sync bug lost all of our client notes from yesterday. Fix it now or we cancel.",negative,bug,5
+g20,"Our renewal went through at the old price even though we downgraded. Please correct the charge.",negative,billing,3
+g21,"Search is really slow when I filter by tag, takes about 10 seconds to load.",negative,bug,3
+g22,"Could you add keyboard shortcuts for switching between projects?",neutral,feature_request,1
+g23,"I love the product, but the mobile app logs me out every single day.",negative,account,3
+g24,"Where can I find your security and compliance documentation for our procurement team?",neutral,other,2

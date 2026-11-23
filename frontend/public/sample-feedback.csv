@@ -1,0 +1,26 @@
+id,text,customer,channel
+T-1001,"Hi, I was charged twice for the Pro plan this month. Please refund the duplicate payment asap.",Northwind,email
+T-1002,"Love the new reporting view, it saves me about an hour a week. Thanks team!",Contoso,chat
+T-1003,"The mobile app crashes as soon as I open the calendar tab. iPhone 15, latest update.",Fabrikam,app
+T-1004,"Would love to see a Google Sheets integration so we can sync our pipeline automatically.",Tailspin,email
+T-1005,"I can't log in. The password reset link says it has expired every time I click it.",Wingtip,chat
+T-1006,"My order was supposed to arrive Monday. Tracking hasn't updated in five days.",Litware,email
+T-1007,"Getting a blank screen after login on Chrome. Firefox works fine.",Adventure Works,chat
+T-1008,"Can you send me an invoice for March with our new billing address?",Proseware,email
+T-1009,"This is the third time sync has failed and wiped our notes. Unacceptable. We will cancel if this isn't fixed immediately!",Northwind,phone
+T-1010,"It would be great if we could bulk edit tags on records.",Contoso,app
+T-1011,"Our whole team is locked out after the SSO change this morning. Production is down for us.",Fabrikam,phone
+T-1012,"The parcel arrived early and everything was well packed. Excellent service.",Tailspin,email
+T-1013,"Search takes ages when filtering by date range. Not broken, just slow.",Wingtip,chat
+T-1014,"Why did our subscription price go up without notice? Disappointed.",Litware,email
+T-1015,"Do you offer a nonprofit discount?",Proseware,chat
+T-1016,"Please add dark mode, my eyes will thank you.",Adventure Works,app
+T-1017,"Export to CSV gives an error 500 for reports with more than 1000 rows.",Northwind,email
+T-1018,"How do I transfer account ownership to a colleague who is taking over?",Contoso,chat
+T-1019,"Package was left at the wrong address and the courier won't respond.",Fabrikam,phone
+T-1020,"Just wanted to say thank you to Priya in support, she was fantastic.",Tailspin,email
+T-1021,"Notifications stopped working on Android after the last update.",Wingtip,app
+T-1022,"We were billed for 12 seats but we only have 8 active users. Please correct the invoice.",Litware,email
+T-1023,"Is there a public roadmap I can look at?",Proseware,chat
+T-1024,"The onboarding checklist was really smooth, great job.",Adventure Works,app
+T-1025,"2FA codes are not being accepted, I'm locked out of my admin account right now.",Northwind,phone
